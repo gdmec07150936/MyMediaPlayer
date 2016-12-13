@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_915489795578e7003d54c493665a2600ca11ac73.jar" />
+    </item>
+    <item
+        jar="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.0_c9e2c59957c9a10fb7d686525b7529b24b6e649c.jar" />
+    </item>
+    <item
+        jar="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_582e53267a599e6e77fac204bee0b820df10064a.jar" />
+    </item>
+    <item
+        jar="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.0_30fc08d2406d39b418f01ba10bb8b7d200a88f7f.jar" />
+    </item>
+    <item
+        jar="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.0_9652d027d94792354ead79bf6c418dc25e62b33f.jar" />
+    </item>
+    <item
+        jar="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.0_0ac4ac606b764138ebd5d3263e4baf1bec7d2c7f.jar" />
+    </item>
+    <item
+        jar="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_f6d22035751e6bbc233612512a50a9f1b317b552.jar" />
+    </item>
+    <item
+        jar="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.0_c1cf9e1877ddb79397c36e424eef0c8e47516d97.jar" />
+    </item>
+    <item
+        jar="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_0ef4dcf534f777aee4d7f4a0e004cfa32842e6a1.jar" />
+    </item>
+    <item
+        jar="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.0_b987f8a1b0ac65ed256709df837ad82e9b0fd4b7.jar" />
+    </item>
+    <item
+        jar="C:\software\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\support-annotations-24.2.0_920cabf513ad8ee03349939efe0c63a2792ec929.jar" />
+    </item>
+    <item
+        jar="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_0a2188f05259e2079c5594a503c4dfdfc2658681.jar" />
+    </item>
+    <item
+        jar="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.0_1cedc1b080bca9b1ff129a0c8041ab25c0c95ba9.jar" />
+    </item>
+    <item
+        jar="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.0_6b190752d15c2d197d38010461ffe5fec4a44c05.jar" />
+    </item>
+    <item
+        jar="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\androidproject\Android\MyMediaPlayer\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.0_fefe83f98e806a51a7439c5c0b41badec693afa4.jar" />
+    </item>
+
+</items>
